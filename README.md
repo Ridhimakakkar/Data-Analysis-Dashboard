@@ -1,2 +1,2 @@
 # Data-Analysis-Dashboard
-I developed a comphrensive projet in Excel,creating multiple dashboards and tables to analyze the data. This process involved several stages,including data preprocessing, data cleaning, and data visualization
+I developed a comphrensive project in Excel,creating multiple dashboards and tables to analyze the data. This process involved several stages,including data preprocessing, data cleaning, and data visualization
